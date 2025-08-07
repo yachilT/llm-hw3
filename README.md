@@ -52,7 +52,8 @@ Theory of Mind (ToM) is the ability to attribute mental states — beliefs, inte
 
 For this assignment, we will use the PragmatiCQA dataset. It is an open-domain conversational question answering dataset designed to test pragmatic reasoning. The task is to provide an answer to a question given a conversational history, where the desired answer often depends on understanding the unspoken needs or intent behind the question.
 
-You can find the data and the original paper here: https://github.com/jifan-chen/PRAGMATICQA
+You can find the data and the original paper here: https://github.com/qipeng/PragmatiCQA
+
 
 The dataset is built in the domain of Fandom trivia (Fandom refers to a community of people who are passionate about something, whether it's a film, a band, a television show, a book, or a sports team).  The dataset contains two components:
 
